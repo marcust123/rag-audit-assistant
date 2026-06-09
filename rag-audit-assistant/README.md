@@ -126,6 +126,6 @@ Some ideas for taking this further:
 
 ## About
 
-Built by Marcus Tiong — a technology risk professional transitioning into AI implementation and governance. Background in IT audit, controls assurance, and AI agent development at PwC Australia.
+Built by Marcus Tiong
 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/marcus-tiong) · [GitHub](https://github.com/marcust123)
