@@ -1,0 +1,6 @@
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-openai==0.2.9
+chromadb==0.5.18
+openai==1.54.0
+tiktoken==0.8.0

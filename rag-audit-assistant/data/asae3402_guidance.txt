@@ -1,0 +1,165 @@
+ASAE 3402 — ASSURANCE REPORTS ON CONTROLS AT A SERVICE ORGANISATION
+Sample Guidance Document (Educational Use)
+
+===============================================================
+1. INTRODUCTION AND SCOPE
+===============================================================
+
+ASAE 3402 (Assurance Engagements on Controls at a Service Organisation) establishes requirements and provides guidance for a practitioner engaged to report on controls at a service organisation that are likely to be relevant to user entities' internal control over financial reporting.
+
+This standard is issued by the Auditing and Assurance Standards Board (AUASB) and is based on the International Standard on Assurance Engagements (ISAE) 3402.
+
+The objectives of the service auditor under this standard are:
+- To obtain reasonable assurance about whether the service organisation's description of its system fairly presents the system as designed and implemented throughout the specified period.
+- To evaluate whether the controls stated in the description were suitably designed to achieve the related control objectives throughout the specified period.
+- To evaluate whether, for a Type 2 report, the controls operated effectively throughout the specified period.
+- To report on the matters above in accordance with the service auditor's findings.
+
+===============================================================
+2. TYPES OF REPORTS
+===============================================================
+
+TYPE 1 REPORT
+A Type 1 report covers the service organisation's description of its system and the suitability of the design of controls at a specific point in time. It does not include testing of operating effectiveness. A Type 1 report is useful when a service organisation is implementing controls for the first time or when user auditors need a baseline understanding of control design.
+
+TYPE 2 REPORT
+A Type 2 report covers both the suitability of design and the operating effectiveness of controls over a specified period (typically 6 to 12 months). It requires the service auditor to perform tests of controls and report on whether the controls operated effectively throughout the period. Type 2 reports are more valuable to user auditors as they provide evidence of actual control performance.
+
+Key distinction: A Type 1 report answers "were the controls designed correctly?" while a Type 2 report answers "did the controls actually work over time?"
+
+===============================================================
+3. RESPONSIBILITIES OF THE SERVICE ORGANISATION
+===============================================================
+
+The service organisation is responsible for:
+- Preparing the description of the service organisation's system.
+- Providing a written assertion about whether the description is fairly presented, whether controls are suitably designed, and (for Type 2) whether controls operated effectively.
+- Identifying the risks that threaten achievement of the control objectives.
+- Designing and implementing controls to mitigate identified risks.
+- Monitoring the ongoing effectiveness of controls.
+
+Management's assertion must accompany the service auditor's report and forms a critical part of the overall report package provided to user entities and their auditors.
+
+===============================================================
+4. CONTROL OBJECTIVES AND CONTROL ACTIVITIES
+===============================================================
+
+Control objectives represent the goals that controls are designed to achieve. Common control objectives in ASAE 3402 engagements include:
+
+CHANGE MANAGEMENT
+- Changes to applications and infrastructure are authorised, tested, and approved prior to implementation.
+- Emergency changes are subject to retrospective review and approval.
+- Segregation of duties exists between development, testing, and production environments.
+
+ACCESS MANAGEMENT
+- Logical access to systems, applications, and data is restricted to authorised individuals.
+- User access is provisioned and de-provisioned in a timely manner based on role requirements.
+- Privileged access (administrator accounts) is monitored and reviewed regularly.
+- Password policies enforce minimum complexity, expiry, and lockout requirements.
+
+COMPUTER OPERATIONS
+- Processing jobs are scheduled, monitored, and exceptions are identified and resolved.
+- Incident management processes ensure timely identification and resolution of system issues.
+- Capacity and performance are monitored to prevent service disruptions.
+
+PHYSICAL AND ENVIRONMENTAL SECURITY
+- Access to data centres and server rooms is restricted to authorised personnel.
+- Environmental controls (fire suppression, cooling, power redundancy) are in place.
+- Visitor access is logged and escorted.
+
+DATA BACKUP AND RECOVERY
+- Data backups are performed in accordance with defined schedules.
+- Backup integrity is tested through periodic restoration testing.
+- Recovery time and recovery point objectives are defined and tested.
+
+===============================================================
+5. COMPLEMENTARY USER ENTITY CONTROLS (CUECs)
+===============================================================
+
+Complementary User Entity Controls (CUECs) are controls that the service organisation assumes will be implemented by user entities in order for the overall control environment to be effective. The service organisation must clearly identify CUECs in its description.
+
+Common examples of CUECs include:
+- User entities are responsible for reviewing and approving access requests before submitting them to the service organisation.
+- User entities are responsible for promptly notifying the service organisation when an employee's access should be revoked (e.g. upon termination or role change).
+- User entities are responsible for reviewing reports of user activity provided by the service organisation.
+- User entities are responsible for maintaining accurate and complete input data submitted to the service organisation for processing.
+
+User auditors must evaluate whether CUECs are in place and operating effectively at the user entity, as the Type 2 report alone does not provide sufficient assurance if CUECs are not implemented.
+
+===============================================================
+6. THE AUDIT PROCESS — KEY PHASES
+===============================================================
+
+PLANNING
+The service auditor must obtain an understanding of the service organisation's system, including the services provided, the infrastructure, software, people, procedures, and data. The auditor should assess the risk of material misstatement and design procedures responsive to those risks.
+
+SCOPING
+The scope of the engagement must be clearly defined, including the system boundaries, the control objectives to be covered, and the period of the engagement. Out-of-scope systems and sub-service organisations should be clearly identified.
+
+TESTING APPROACHES
+The service auditor may use the following testing approaches to evaluate operating effectiveness:
+- Inquiry: Obtaining information from service organisation personnel.
+- Observation: Watching a procedure being performed.
+- Inspection: Examining documents, records, or reports.
+- Re-performance: Independently executing a control procedure to confirm it operates as described.
+
+Sample sizes for testing should be determined based on the frequency of the control and the risk of the control objective. Higher frequency controls (e.g. daily automated controls) may require smaller sample sizes than manual monthly controls.
+
+REPORTING
+The service auditor's report must include:
+- A description of the service auditor's responsibilities.
+- An opinion on whether the description is fairly presented.
+- An opinion on whether controls are suitably designed.
+- For Type 2: An opinion on operating effectiveness, including a description of tests performed and results.
+- Any exceptions noted during testing, including their nature and potential impact.
+
+===============================================================
+7. SUBSERVICE ORGANISATIONS
+===============================================================
+
+When a service organisation uses another service organisation (a subservice organisation) to perform services that are relevant to user entities' internal control over financial reporting, the service organisation must decide how to address the subservice organisation in the report.
+
+INCLUSIVE METHOD: The subservice organisation's controls are included within the scope of the engagement. The service auditor must obtain evidence about those controls directly.
+
+CARVE-OUT METHOD: The subservice organisation is carved out of the scope. The description identifies the subservice organisation and the nature of services provided, but does not include the subservice organisation's controls. User entities are responsible for obtaining their own assurance over the subservice organisation.
+
+The choice of method should be disclosed clearly in the description and the service auditor's report.
+
+===============================================================
+8. EXCEPTIONS AND DEVIATIONS
+===============================================================
+
+When the service auditor identifies deviations from a control during testing, they must evaluate:
+- The nature and cause of the deviation.
+- Whether the deviation is isolated or systemic.
+- The potential impact on user entities and their auditors.
+- Whether compensating controls exist that mitigate the risk.
+
+Exceptions do not automatically result in a qualified opinion. The service auditor must exercise professional judgement to determine whether the deviations are sufficient in number or nature to conclude that the control did not operate effectively throughout the period.
+
+A qualified opinion should be issued when:
+- The description is not fairly presented in one or more material respects.
+- Controls are not suitably designed to achieve one or more control objectives.
+- For Type 2: Controls did not operate effectively throughout the period.
+
+===============================================================
+9. GLOSSARY OF KEY TERMS
+===============================================================
+
+Service Organisation: An organisation that provides services to user entities that are likely to be relevant to user entities' internal control over financial reporting.
+
+User Entity: An entity that uses the services of a service organisation and whose financial statements are being audited.
+
+User Auditor: The auditor who audits and reports on the financial statements of a user entity.
+
+Service Auditor: The practitioner who reports on controls at a service organisation.
+
+Control Objective: The goal or purpose that a control is designed to achieve.
+
+Complementary User Entity Controls (CUECs): Controls the service organisation assumes will be in place at user entities for the overall control environment to operate effectively.
+
+Subservice Organisation: A service organisation used by another service organisation to perform services relevant to user entities' internal control over financial reporting.
+
+Type 1 Report: A report on the description of the service organisation's system and the suitability of the design of controls at a specific point in time.
+
+Type 2 Report: A report on the description of the system, suitability of design, and operating effectiveness of controls over a specified period.
