@@ -90,7 +90,7 @@ rag-audit-assistant/
    python app.py
    ```
 
-On first run, the app will build the vector store and save it to `./chroma_db/`. Subsequent runs will load it from disk — much faster.
+On first run, the app will build the vector store and save it to `./chroma_db/`. Subsequent runs will load it from disk.
 
 ---
 
@@ -109,18 +109,7 @@ Inject chunks + question into prompt → GPT-3.5 generates answer
 Grounded answer printed to terminal
 ```
 
-This pattern — **Retrieval-Augmented Generation** — ensures the model only answers from the actual document content, dramatically reducing hallucinations. This is especially important in audit and compliance contexts where precision and accuracy are critical.
-
----
-
-## Extending this project
-
-Some ideas for taking this further:
-
-- **Add more documents** — drop additional `.txt` or `.pdf` files into `/data` and update the loader to ingest multiple files
-- **Swap the LLM** — replace OpenAI with a local model via Ollama for a fully offline version
-- **Add a web UI** — wrap `app.py` with Streamlit for a browser-based interface
-- **Expand to other standards** — add SOx, ASAE 3150, or GS007 guidance documents to cover a broader compliance knowledge base
+This RAG pattern ensures the model only answers from the actual document content, dramatically reducing hallucinations. This is especially important in audit and compliance contexts where precision and accuracy are critical.
 
 ---
 
